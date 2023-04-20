@@ -2,6 +2,6 @@
 
 ## GMS App
 
-[Download dev](https://expo.dev/artifacts/eas/uC9QhpEBjegCHTW3iWXKBA.apk)
+[Download dev](https://expo.dev/artifacts/eas/veKcDw6ocYrWfNCvp2igQn.apk)
 
 Download prod 
