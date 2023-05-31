@@ -1,10 +1,8 @@
 # Downloads
 
 ## GMS App
-[Download dev v1.2.0](https://expo.dev/artifacts/eas/wUphWTGNDpKXBbEZ9rgrTV.apk)
+### PROD
+[Download v1.2.x](https://expo.dev/artifacts/eas/bPiWW5pQ7RTzCumYoXB8b3.apk)
 
-~~[Download dev v1.0.4](https://expo.dev/artifacts/eas/6YFGanR4uHppqaY4rv4jKh.apk)~~
-
-~~[Download dev v1.0.3](https://expo.dev/artifacts/eas/qsoUGYffeaL5VDzmJL5iS3.apk)~~
-
-Download prod 
+### DEV
+[Download v1.2.x](https://expo.dev/artifacts/eas/wUphWTGNDpKXBbEZ9rgrTV.apk)
