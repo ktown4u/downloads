@@ -2,7 +2,7 @@
 
 ## GMS App
 ### PROD
-[Download v1.2.x](https://expo.dev/artifacts/eas/bPiWW5pQ7RTzCumYoXB8b3.apk)
+[Download v1.2.x](https://drive.google.com/file/d/1VQbGDD1bVhghoMQqxBB1DfefQUCh9zCI/view?usp=sharing)
 
 ### DEV
-[Download v1.2.x](https://drive.google.com/file/d/1oSlvD3aYyxvQQ2_dKgpqD_YhXjxRanX6/view?usp=sharing)
+[Download v1.2.x](https://drive.google.com/file/d/1C_nPRWoiM2slJA5MzDlpkiLNenMELsxu/view?usp=sharing)
