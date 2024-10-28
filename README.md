@@ -3,10 +3,10 @@
 ## GMS App
 
 ### PROD
-- 
+- [Download v2.0.2] (https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EW6zMkga62dDhu0oQzCPBjoBl_qFiqscUuCQFqjoWgNjzQ?e=rj5rdi)
 
 ### DEV
-- [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EWtD9f5ZS_hKlkYycl0vRfwB53kBVBEJNcBOdyE3aLOyHw?e=uQ9w79)
+- [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EWtD9f5ZS_hKlkYycl0vRfwBnhOnchFsuemjLCVqr_L53Q?e=YpAGwP)
 
 <br><br>
 
