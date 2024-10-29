@@ -6,7 +6,7 @@
 - [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EW6zMkga62dDhu0oQzCPBjoBl_qFiqscUuCQFqjoWgNjzQ?e=rj5rdi)
 
 ### DEV
-- [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EWtD9f5ZS_hKlkYycl0vRfwBnhOnchFsuemjLCVqr_L53Q?e=YpAGwP)
+- [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EWtD9f5ZS_hKlkYycl0vRfwBCxeMxUuGubQAwF7RbrTnXg?e=5Adg9G)
 
 <br><br>
 
