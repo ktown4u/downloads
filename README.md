@@ -6,7 +6,7 @@
 - [Download v2.0.2](https://downloads.ktown4u.com/prod-2.0.2.apk)
 
 ### DEV
-- [Download v2.0.2](https://ktown4u-my.sharepoint.com/:u:/p/abrazobob/EWtD9f5ZS_hKlkYycl0vRfwBCxeMxUuGubQAwF7RbrTnXg?e=5Adg9G)
+- [Download v2.0.2](https://downloads.ktown4u.com/gms-app/dev-2.0.2.apk)
 
 <br><br>
 
