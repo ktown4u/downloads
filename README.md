@@ -3,8 +3,8 @@
 ## 최신 버전
 Build 15, Version 3.0.x
 
-#### [Download PROD](https://downloads.ktown4u.com/gms-app/gms-app-production-build-15-3.0.9.apk)
-#### [Download DEV](https://downloads.ktown4u.com/gms-app/gms-app-development-build-15-3.0.9.apk)
+#### [Download PROD](https://gms-app-downloads.s3.ap-northeast-2.amazonaws.com/gms-app-development-build-15-3.0.9.apk)
+#### [Download DEV](https://gms-app-downloads.s3.ap-northeast-2.amazonaws.com/gms-app-production-build-15-3.0.9.apk)
 
 </br>
 
