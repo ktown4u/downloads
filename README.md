@@ -10,8 +10,8 @@ Build 24, Version 3.5.7
 
 ## 예전 버전
 ### 3.0.x (Build 15)
-- [Download PROD](https://gms-app-downloads.s3.ap-northeast-2.amazonaws.com/gms-app-development-build-15-3.0.9.apk)
-- [Download DEV](https://gms-app-downloads.s3.ap-northeast-2.amazonaws.com/gms-app-production-build-15-3.0.9.apk)
+- [Download PROD](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-production-build-15-3.0.9.apk.zip)
+- [Download DEV](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-development-build-15-3.0.9.apk.zip)
 
 ### 2.0.2
 - [Download PROD](https://downloads.ktown4u.com/prod-2.0.2.apk)
