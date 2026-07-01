@@ -14,8 +14,8 @@ Build 24, Version 3.5.7
 - [Download DEV](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-development-build-15-3.0.9.apk.zip)
 
 ### 2.0.2
-- [Download PROD](https://downloads.ktown4u.com/prod-2.0.2.apk)
-- [Download DEV](https://downloads.ktown4u.com/gms-app/dev-2.0.2.apk)
+- [Download PROD](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-prod-2.0.2.apk.zip)
+- [Download DEV](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-dev-2.0.2.apk.zip)
 
 ### 1.2.x
 - [Download PROD](https://drive.google.com/file/d/1VQbGDD1bVhghoMQqxBB1DfefQUCh9zCI/view?usp=sharing)
