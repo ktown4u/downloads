@@ -3,8 +3,8 @@
 ## 최신 버전
 Build 24, Version 3.5.7
 
-#### [Download PROD](assets/gms-app-prod-3.5.7-b24.apk.zip)
-#### [Download DEV](assets/gms-app-dev-3.5.7-b24.apk.zip)
+#### [Download PROD](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-prod-3.5.7-b24.apk.zip)
+#### [Download DEV](https://github.com/ktown4u/downloads/raw/main/assets/gms-app-dev-3.5.7-b24.apk.zip)
 
 </br>
 
